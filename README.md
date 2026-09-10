@@ -84,40 +84,11 @@ The objective of Week 1 was to establish a controlled cybersecurity testing labo
 
 ## Evidence
 
-Evidence is stored separately so that each screenshot can be mapped to a specific technical activity and competency.
-
-### Virtualization
-![VirtualBox Installation](evidence/week-01/01-virtualbox-installed.png)
-
-![Kali Linux VM](evidence/week-01/02-kali-imported.png)
-
-### Network Configuration
-![Kali VM Settings](evidence/week-01/03-kali-vm-settings.png)
-
-![NAT Network](evidence/week-01/04-nat-network.png)
-
-![Network Adapter](evidence/week-01/05-network-adapter.png)
-
-### Validation
-![Kali IP Address](evidence/week-01/06-kali-ip-address.png)
-
-![Internet Connectivity](evidence/week-01/07-internet-connectivity.png)
-
-### Host Integration
-![Shared Folder](evidence/week-01/08-shared-folder.png)
-
-![Clipboard and Drag & Drop](evidence/week-01/09-clipboard-drag-drop.png)
-
-## Documentation
-
-- [Week 1 Internship Report](docs/WEEK-01-INTERNSHIP-REPORT.md)
-- [Lab Architecture](docs/LAB-ARCHITECTURE.md)
-- [Evidence Matrix](docs/EVIDENCE-MATRIX.md)
-- [Network Configuration](configuration/network-configuration.md)
+Evidence is stored separately under the evidence branch in week-01.
 
 ## Week 1 Outcome
 
-A functional cybersecurity testing laboratory was established using VirtualBox and Kali Linux. The laboratory provides the foundation for subsequent practical cybersecurity activities.
+We established a functional cybersecurity testing laboratory using VirtualBox and Kali Linux. The laboratory provides the foundation for subsequent practical cybersecurity activities.
 
 ## Roadmap
 
