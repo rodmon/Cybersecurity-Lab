@@ -1,4 +1,4 @@
-﻿# Cybersecurity Testing Lab ΓÇô Week 1
+﻿# Cybersecurity Testing Lab - Week 1
 
 > **NetworkWalks Cybersecurity Internship | B083 | Week 1 | PM1**
 
