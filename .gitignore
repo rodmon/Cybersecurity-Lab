@@ -1,0 +1,27 @@
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+credentials.*
+secrets.*
+*password*
+*token*
+
+# Virtual machines / large local files
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.iso
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
