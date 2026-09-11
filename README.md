@@ -84,7 +84,7 @@ The objective of Week 1 was to establish a controlled cybersecurity testing labo
 
 ## Evidence
 
-Evidence is stored separately under the evidence branch in week-01.
+Evidence is stored separately under the evidence folder in week-01.
 
 ## Week 1 Outcome
 
@@ -92,7 +92,7 @@ We established a functional cybersecurity testing laboratory using VirtualBox an
 
 ## Roadmap
 
-### Week 1 ΓÇô Laboratory Setup
+### Week 1 Laboratory Setup
 - [x] VirtualBox environment
 - [x] Kali Linux deployment
 - [x] NAT Network
