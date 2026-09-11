@@ -124,7 +124,7 @@ Testing must only be performed against systems and networks that are owned by th
 
 ## Project Status
 
-**Status:** Week 1 ΓÇô Laboratory Setup Completed
+**Status:** Week 1 Laboratory Setup Completed
 
 **Next Phase:** Cybersecurity Testing and Validation
 
